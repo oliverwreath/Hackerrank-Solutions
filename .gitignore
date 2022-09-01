@@ -1,2 +1,7 @@
 /.idea/
-!/Hackerrank-Solutions.iml
+/target
+/tutorials/crackingTheCodingInterview/target
+/interviewPreparationKit/target
+*/target/
+CoreCS/DataStructures/target
+*/classes/
