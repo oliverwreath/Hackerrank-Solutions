@@ -1,15 +1,15 @@
-<p align="center">
-<a  href="https://www.facebook.com/groups/codingip">
-       <img align="left" height=85 src="https://static1.squarespace.com/static/5994a0f17131a5643f407c37/t/5bf9070c0ebbe88c3392b17c/1543047009836/facebook_button.png">
+<p style="text-align: center;">
+  <a href="https://www.facebook.com/groups/codingip">
+     <img style="text-align: right;" height=60 src="src/main/resources/images/fb-join-group.png" alt="facebook group logo">
+  </a>
+  <a style="text-align: center;" href="https://www.hackerrank.com/Kanahaiya">
+       <img height=85 src="src/main/resources/images/hackerrank.svg" alt="hackerrank logo">
    </a>
-   <a align="center" href="https://www.hackerrank.com/Kanahaiya">
-       <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
-   </a>
-   <a href="https://www.youtube.com/c/JavaAidTutorials?sub_confirmation=1">
-       <img align="right" height=85 src="https://www.freepngimg.com/thumb/subscribe/4-2-subscribe-png-2.png">
-   </a>
- <p/>
-This repository contains <b>efficient hackerrank solutions</b> for most of the <b>hackerrank challenges</b> including <b><a href="https://www.youtube.com/c/JavaAidTutorials?sub_confirmation=1">video tutorials</b></a>. If you are looking for anyone of these things -
+  <a href="https://www.youtube.com/c/JavaAidTutorials?sub_confirmation=1">
+     <img style="text-align: right;" height=70 src="src/main/resources/images/subscribe-now.png" alt="youtube logo">
+  </a>
+</p>
+This repository contains <b>efficient hackerrank solutions</b> for most of the <b>hackerrank challenges</b> including <b><a href="https://www.youtube.com/c/JavaAidTutorials?sub_confirmation=1">video tutorials</a></b>. If you are looking for anyone of these things -
 
 hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 days of code solutions | hackerrank algorithms solution | hackerrank cracking the coding interview solutions | hackerrank general programming solutions | hackerrank implementation solutions | hackerrank data structures solutions in java | hackerrank algorithm solution in java | hackerrank challenges solution | hackerrank practices solution | hackerrank coding challenges solutions | hackerrank questions | hackerrank problems | how to solve hackerrank practice problem in java | problem solving | coding interview | coding | programming | hackerrank interview preparation kit solution in java | problem solving with java | JAVAAID | hackerank solution | Kanahaiya Gupta 
 
@@ -18,6 +18,7 @@ then you are at the right place. :)
 <br/>
 <br/>
 
+* [INTERVIEW PREPARATION KIT](#interview-preparation-kit)
 * [30 DAYS OF CODE](#30-days-of-code)
 * [JAVA](#java)
 * [ALGORITHMS](#algorithms)
@@ -25,10 +26,18 @@ then you are at the right place. :)
 * [DATA STRUCTURES](#data-structures)
 * [GENERAL PROGRAMMING](#general-programming)
 * [IMPLEMENTATION](#implementation)
-* [INTERVIEW PREPARATION KIT](#interview-preparation-kit)
 * [TOP 10 LEARNING RESOURCES](#top-10-learning-resources)
 
   Coding environment used- Windows 8.1, Eclipse Oxygen, JAVA 8
+
+# INTERVIEW PREPARATION KIT
+
+|       Subdomain       			  |                                                           Challenge                                                          |                                                                                                     Solution                                                                                                                                               		    |				 	  Video Explaination					 |
+|:-----------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------:|
+|      Dictionaries and Hashmaps      | [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1)                                					 | [CountTriplets.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Interview-Preparation-Kit/src/main/java/com/javaaid/dictionaries/CountTriplets.java)                         	  										   	    | 		[Tutorial](https://youtu.be/tBFZMaWP0W8)		     |
+|      			Search			      | [Triple sum](https://www.hackerrank.com/challenges/triple-sum/problem)                                					     | [TripleSum.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Interview-Preparation-Kit/src/main/java/com/javaaid/search/TripleSum.java)                         	  										   	  			    | 		[Tutorial](https://youtu.be/pVkHLciuank)		     |
+|      	String Manipulation			  | [Common Child](https://www.hackerrank.com/challenges/common-child/problem)                                					 | [CommonChild.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/strings/CommonChild.java)                         	  								| 		[Tutorial](https://youtu.be/ItRZRx8kvwY)		     |
+
 
 
 # 30 DAYS OF CODE
@@ -365,19 +374,6 @@ then you are at the right place. :)
 |      Brute Force      | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem)                               | [StringsMakingAnagrams.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Implementation/src/main/java/org/javaaid/hackerrank/solutions/implementation/bruteforce/StringsMakingAnagrams.java)                         	  | 														   |
 |      Brute Force      | [Encryption](https://www.hackerrank.com/challenges/encryption/problem)                                                       | [Encryption.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Implementation/src/main/java/org/javaaid/hackerrank/solutions/implementation/bruteforce/Encryption.java)                         	      				  | 														   |
 |      Brute Force      | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem)                                             | [MakingAnagrams.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Implementation/src/main/java/org/javaaid/hackerrank/solutions/implementation/bruteforce/MakingAnagrams.java)                         	      		  |
-
-
-
-# INTERVIEW PREPARATION KIT
-
-|       Subdomain       			  |                                                           Challenge                                                          |                                                                                                     Solution                                                                                                                                               		    |				 	  Video Explaination					 |
-|:-----------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------:|
-|      Dictionaries and Hashmaps      | [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1)                                					 | [CountTriplets.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Interview-Preparation-Kit/src/main/java/com/javaaid/dictionaries/CountTriplets.java)                         	  										   	    | 		[Tutorial](https://youtu.be/tBFZMaWP0W8)		     |
-|      			Search			      | [Triple sum](https://www.hackerrank.com/challenges/triple-sum/problem)                                					     | [TripleSum.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Interview-Preparation-Kit/src/main/java/com/javaaid/search/TripleSum.java)                         	  										   	  			    | 		[Tutorial](https://youtu.be/pVkHLciuank)		     |
-|      	String Manipulation			  | [Common Child](https://www.hackerrank.com/challenges/common-child/problem)                                					 | [CommonChild.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/strings/CommonChild.java)                         	  								| 		[Tutorial](https://youtu.be/ItRZRx8kvwY)		     |
-
-
-
 
 
 
